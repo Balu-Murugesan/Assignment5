@@ -1,0 +1,27 @@
+.commom {
+  display: flex;
+  /* margin-left: 30px; */
+  background-color: rgb(221, 198, 167);
+  margin-top: 10px;
+  justify-content: space-around;
+  border: 2px solid black;
+}
+#maindiv {
+  position: fixed;
+  /* top: 0%; */
+  bottom: 40%;
+  right: 40%;
+}
+
+input {
+  border: none;
+  background-color: rgb(221, 198, 167);
+  font-size: larger;
+}
+button {
+  background-color: rgb(221, 198, 167);
+  border: none;
+  outline: none;
+  font-size: larger;
+  color: green;
+}

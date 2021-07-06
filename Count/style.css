@@ -1,0 +1,33 @@
+#maindiv {
+  display: flex;
+}
+.firstdiv {
+  display: inline-block;
+  border: 1px solid black;
+  position: fixed;
+  bottom: 50%;
+  right: 45%;
+}
+input {
+  border: none;
+  outline: none;
+  /* padding: 40px; */
+  margin-left: 118px;
+  font-size: 50px;
+  margin-bottom: 30px;
+  margin-top: 20px;
+}
+button {
+  /* padding: 10px; */
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+  font-size: 40px;
+  color: white;
+  border: none;
+  outline: none;
+}
+.fas {
+  color: black !important;
+}

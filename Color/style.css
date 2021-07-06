@@ -1,0 +1,11 @@
+#maindiv {
+  position: fixed;
+  bottom: 50%;
+  right: 35%;
+}
+select {
+  width: 100%;
+  padding: 10px;
+  font-size: large;
+  outline: none;
+}
